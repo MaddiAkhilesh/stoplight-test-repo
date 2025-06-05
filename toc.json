@@ -1,9 +1,9 @@
-{
-  "name": "Master Docs",
-  "items": [
-    {
-      "name": "Overview",
-      "page": "docs/master-doc.md"
-    }
-  ]
-}
+{ 
+  "title": "Master TOC", 
+  "toc": [ 
+    { 
+      "name": "Master Page", 
+      "url": "/docs/master-only.md" 
+    } 
+  ] 
+} 

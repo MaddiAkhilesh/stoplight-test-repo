@@ -1,9 +1,9 @@
-{
-  "name": "Dev Docs",
-  "items": [
-    {
-      "name": "Overview",
-      "page": "docs/dev-doc.md"
-    }
-  ]
-}
+{ 
+  "title": "Dev TOC", 
+  "toc": [ 
+    { 
+      "name": "Dev Placeholder", 
+      "url": "/docs/dev-only.md" 
+    } 
+  ] 
+} 

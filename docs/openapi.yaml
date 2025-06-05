@@ -4,7 +4,7 @@ x-stoplight:
 info:
   title: Sample API
   version: 1.0.0
-  description: Update OpenAPI spec with Orders and Users endpoints
+  description: Update OpenAPI spec with Orders and Users endpoints.
   contact:
     name: API Support
     email: support@example.com

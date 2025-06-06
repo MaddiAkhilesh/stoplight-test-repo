@@ -1,6 +1,19 @@
-      examples:
-        success:
-          summary: A successful response
-          value:
-            id: 123
-            name: Test Item
+openapi: 3.0.0 
+info: 
+"  title: Sample API" 
+"  version: 1.0.0" 
+paths: 
+"  /items:" 
+"    get:" 
+"      summary: Get an item" 
+"      responses:" 
+"        '200':" 
+"          description: A successful response" 
+"          content:" 
+"            application/json:" 
+"              examples:" 
+"                success:" 
+"                  summary: A successful response" 
+"                  value:" 
+"                    id: 123" 
+"                    name: Test Item" 

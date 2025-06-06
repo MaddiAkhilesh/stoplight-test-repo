@@ -1,0 +1,6 @@
+      examples:
+        success:
+          summary: A successful response
+          value:
+            id: 123
+            name: Test Item
